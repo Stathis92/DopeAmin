@@ -6,7 +6,7 @@ Play here: https://stathis92.github.io/DopeAmin/
 Right now the game requires to be played in full screen mode.
 Controls: W, A, S, D - Movement. Left-MouseClick to select options.
 
-Game is in a very early stage: doesn't contain any music and sound effects, doesn't have a "You win" screen and there isn't much to do yet.
+Game is in a very early stage: doesn't have a "You win" screen and there isn't much to do yet. Takes 6minutes to finish all waves.
 
 You start as the knight which has the whip weapon by default.
 Other weapons: 
