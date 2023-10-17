@@ -24,8 +24,7 @@
 </br>~-Prop spawn system and drop/collect system.~
 </br>~-XP system and levelUp screen(we take advantage of the screens to implement scene-transitions/ pause screen/ gameOver screen).~
 </br>~-Upload build in gitHub and provide link to friends/family for some basic playtest.~
-</br>-Fog effect: Right now the world feels empty and bland. Using some correct particle effects with change the view of the game.
-</br>-Lighting: With the creation of a light system and adding some torches/campfires we give life to a game.
+</br>~-Lighting: With the creation of a light system and adding some torches/campfires we give life to a game.~
 </br>-Save&Load system.
 </br>-Perma unlockable system: We achieve a Rogue-lite game which can be fun for the player.
 </br>-Victory scenario: We have to make the player have a goal or the game will be forever boring.
