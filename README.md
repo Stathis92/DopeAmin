@@ -7,6 +7,7 @@
 
 </br>:joystick: Controls: 
 </br>:keyboard: W, A, S, D - Movement. 
+</br>:keyboard: P, Esc - Pause Screen. 
 </br>:computer_mouse: Left-MouseClick - to select options.
 
 </br>:video_game: You start the game as the Knight character which has the whip weapon by default.
